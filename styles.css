@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+#e1{
+	color:deepskyblue;
+	font-family:arial;
+	font-size:60px
+}
+#e2{
+	color:red;
+	font-family:arial;
+	font-size:45px
+}
+#e3{
+	color:green;
+	font-family:arial;
+	font-size:35px
+}
+#e4{
+	color:orange;
+	font-family:arial;
+	font-size:30px
+}
+#e5{
+	color:darkgreen;
+	font-family:arial;
+	font-size:25px
+}
+#e6{
+	color:yellow;
+	font-family:arial;
+	font-size:20px
+}
